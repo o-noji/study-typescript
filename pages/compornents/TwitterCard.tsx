@@ -95,3 +95,4 @@ export const TwitterCard = (props: TwitterCardProps) => {
     </div>
   );
 };
+export default TwitterCard;
